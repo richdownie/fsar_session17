@@ -7,5 +7,6 @@ And /I submit an invalid widget/i do
     fill_in 'Name', with: 'Capybara'
     fill_in 'Description', with: 'Capybara simulates how a user would interact with a website.'
     click_button 'Create Widget'
+    # save_and_open_screenshot
   end
 end
