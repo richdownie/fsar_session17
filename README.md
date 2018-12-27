@@ -1,4 +1,4 @@
-# FSAR SESSION 15 ~ [Browsers and ENV Variables](https://fullstackautomationwithruby.com/Browser-by-ENV-Variable)
+# FSAR SESSION 17 ~ [Capybara](https://fullstackautomationwithruby.com/Capybara)
 
 1. [INSTALL FSAR](https://fullstackautomationwithruby.com/install)
 2. `$ bundle install`
