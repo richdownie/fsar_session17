@@ -1,4 +1,4 @@
-# FSAR SESSION 17 ~ [Cucumber and Capybara](https://fullstackautomationwithruby.com/Cucumnber-and-Capybara)
+# FSAR SESSION 17 ~ [Cucumber and Capybara](https://fullstackautomationwithruby.com/Cucumber-and-Capybara)
 
 1. [INSTALL FSAR](https://fullstackautomationwithruby.com/install)
 2. `$ bundle install`
