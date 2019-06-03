@@ -2,6 +2,10 @@ Given /I am on the elements page/i do
   visit '/elements'
 end
 
+And /I fill in the text field with "(.*)"/i do |value|
+  page.fill_in 'fsar-input', with: value
+end
+
 And /I click the button/i do
   click_button 'Test'
 end

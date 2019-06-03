@@ -1,5 +1,9 @@
 Feature: FSAR Elements Page tests
 
+Scenario: Verify fill in text field
+	Given I am on the elements page
+	And I fill in the text field with "MoT"
+
 Scenario: Verify click button
 	Given I am on the elements page
 	And I click the button
